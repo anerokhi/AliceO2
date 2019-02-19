@@ -1,0 +1,56 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/workflow/include/ITSWorkflow/ClustererSpec.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/workflow/include/ITSWorkflow/ClustererSpec.h">
+<area shape="rect" id="node3" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="1280,139,1499,165"/>
+<area shape="rect" id="node80" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="5076,139,5205,165"/>
+<area shape="rect" id="node81" href="$d6/d04/ITSMFT_2common_2reconstruction_2include_2ITSMFTReconstruction_2Clusterer_8h.html" title="ITSMFTReconstruction\l/Clusterer.h" alt="" coords="6077,363,6235,405"/>
+<area shape="rect" id="node4" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="4473,213,4660,240"/>
+<area shape="rect" id="node7" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="3831,643,3981,669"/>
+<area shape="rect" id="node34" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="2689,371,2871,397"/>
+<area shape="rect" id="node53" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="1035,552,1205,579"/>
+<area shape="rect" id="node69" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="5,552,213,579"/>
+<area shape="rect" id="node74" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="830,213,1049,240"/>
+<area shape="rect" id="node75" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="449,371,609,397"/>
+<area shape="rect" id="node5" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="4388,288,4601,315"/>
+<area shape="rect" id="node66" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="4521,461,4697,488"/>
+<area shape="rect" id="node67" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="4279,461,4445,488"/>
+<area shape="rect" id="node6" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="4127,552,4300,579"/>
+<area shape="rect" id="node32" href="$d8/d17/ServiceRegistry_8h.html" title="Framework/ServiceRegistry.h" alt="" coords="4940,552,5135,579"/>
+<area shape="rect" id="node8" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="4437,643,4600,669"/>
+<area shape="rect" id="node14" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="5159,643,5364,669"/>
+<area shape="rect" id="node35" href="$df/d2f/ContextRegistry_8h.html" title="Framework/ContextRegistry.h" alt="" coords="3356,643,3553,669"/>
+<area shape="rect" id="node36" href="$dc/dc4/MessageContext_8h.html" title="Framework/MessageContext.h" alt="" coords="1779,552,1980,579"/>
+<area shape="rect" id="node37" href="$d8/d71/FairMQDeviceProxy_8h.html" title="Framework/FairMQDeviceProxy.h" alt="" coords="2327,643,2547,669"/>
+<area shape="rect" id="node39" href="$d2/d80/RootObjectContext_8h.html" title="Framework/RootObjectContext.h" alt="" coords="2522,552,2736,579"/>
+<area shape="rect" id="node40" href="$dd/df6/StringContext_8h.html" title="Framework/StringContext.h" alt="" coords="2315,552,2497,579"/>
+<area shape="rect" id="node41" href="$d8/da2/ArrowContext_8h.html" title="Framework/ArrowContext.h" alt="" coords="2057,552,2239,579"/>
+<area shape="rect" id="node42" href="$d5/d98/TableBuilder_8h.html" title="Framework/TableBuilder.h" alt="" coords="3055,643,3229,669"/>
+<area shape="rect" id="node43" href="$d8/d25/RawBufferContext_8h.html" title=" " alt="" coords="2761,552,2971,579"/>
+<area shape="rect" id="node45" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="1325,461,1465,488"/>
+<area shape="rect" id="node46" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="863,643,1019,669"/>
+<area shape="rect" id="node51" href="$d6/d5a/OutputRef_8h.html" title="Framework/OutputRef.h" alt="" coords="1491,461,1653,488"/>
+<area shape="rect" id="node52" href="$d6/df4/OutputRoute_8h.html" title="Framework/OutputRoute.h" alt="" coords="1125,461,1301,488"/>
+<area shape="rect" id="node55" href="$d7/d31/DataChunk_8h.html" title="Framework/DataChunk.h" alt="" coords="2945,461,3113,488"/>
+<area shape="rect" id="node56" href="$da/d2b/TimingInfo_8h.html" title="Framework/TimingInfo.h" alt="" coords="2759,461,2921,488"/>
+<area shape="rect" id="node57" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="3406,461,3623,488"/>
+<area shape="rect" id="node64" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="4593,552,4815,579"/>
+<area shape="rect" id="node49" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="691,643,839,669"/>
+<area shape="rect" id="node50" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="1280,552,1400,579"/>
+<area shape="rect" id="node68" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="1873,643,2100,669"/>
+<area shape="rect" id="node70" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="29,643,171,669"/>
+<area shape="rect" id="node76" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="729,552,959,579"/>
+<area shape="rect" id="node77" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="617,454,796,495"/>
+<area shape="rect" id="node82" href="$d0/d2d/common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="4722,461,4925,488"/>
+<area shape="rect" id="node87" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="6703,643,6933,669"/>
+<area shape="rect" id="node88" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="6244,461,6447,488"/>
+<area shape="rect" id="node90" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="6745,461,6983,488"/>
+<area shape="rect" id="node91" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="5959,545,6117,586"/>
+<area shape="rect" id="node92" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="5909,635,6067,677"/>
+<area shape="rect" id="node94" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="6193,635,6345,677"/>
+<area shape="rect" id="node96" href="$df/ddf/LookUp_8h.html" title="Definition of the LookUp class. " alt="" coords="5307,545,5465,586"/>
+<area shape="rect" id="node83" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="6369,635,6577,677"/>
+<area shape="rect" id="node85" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="6643,733,6809,760"/>
+<area shape="rect" id="node89" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="6432,545,6619,586"/>
+<area shape="rect" id="node95" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4057,635,4209,677"/>
+<area shape="rect" id="node93" href="$d0/d06/ITSMFT_2common_2base_2include_2ITSMFTBase_2Digit_8h.html" title="ITSMFTBase/Digit.h" alt="" coords="6157,733,6299,760"/>
+<area shape="rect" id="node97" href="$d8/ddb/ClusterTopology_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="5439,635,5631,677"/>
+<area shape="rect" id="node98" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="4780,635,4983,677"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/gconfig/src/G3Config.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/gconfig/src/G3Config.cxx">
+<area shape="rect" id="node5" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="1601,126,1753,167"/>
+<area shape="rect" id="node36" href="$de/d1c/StackParam_8h.html" title="SimulationDataFormat\l/StackParam.h" alt="" coords="1949,126,2101,167"/>
+<area shape="rect" id="node47" href="$d9/d6d/Cave_8h.html" title="DetectorsPassive/Cave.h" alt="" coords="2685,315,2856,341"/>
+<area shape="rect" id="node50" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="2441,315,2660,341"/>
+<area shape="rect" id="node53" href="$df/d35/SimSetup_8h.html" title="SimSetup/SimSetup.h" alt="" coords="2565,133,2715,160"/>
+<area shape="rect" id="node54" href="$d7/d91/g3Config_8C.html" title="../g3Config.C" alt="" coords="2739,133,2839,160"/>
+<area shape="rect" id="node56" href="$d7/de7/SetCuts_8h.html" title="../SetCuts.h" alt="" coords="2864,133,2957,160"/>
+<area shape="rect" id="node6" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="379,307,587,349"/>
+<area shape="rect" id="node17" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="1193,217,1345,258"/>
+<area shape="rect" id="node25" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="172,307,324,349"/>
+<area shape="rect" id="node29" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="1601,217,1753,258"/>
+<area shape="rect" id="node13" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="553,405,673,432"/>
+<area shape="rect" id="node15" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="351,488,589,515"/>
+<area shape="rect" id="node37" href="$db/d2c/ConfigurableParam_8h.html" title="SimConfig/ConfigurableParam.h" alt="" coords="2155,315,2364,341"/>
+<area shape="rect" id="node41" href="$da/d6b/ConfigurableParamHelper_8h.html" title="SimConfig/ConfigurableParam\lHelper.h" alt="" coords="1950,217,2148,258"/>
+<area shape="rect" id="node55" href="$d1/ddc/commonConfig_8C.html" title="commonConfig.C" alt="" coords="2727,224,2851,251"/>
+</map>

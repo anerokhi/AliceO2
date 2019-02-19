@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/RawPixelReader.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/RawPixelReader.h">
+<area shape="rect" id="node2" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="537,139,695,181"/>
+<area shape="rect" id="node4" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="118,230,276,271"/>
+<area shape="rect" id="node5" href="$d0/d06/ITSMFT_2common_2base_2include_2ITSMFTBase_2Digit_8h.html" title="ITSMFTBase/Digit.h" alt="" coords="5,320,147,347"/>
+<area shape="rect" id="node17" href="$d8/da2/AlpideCoder_8h.html" title="class for the ALPIDE data decoding/encoding " alt="" coords="949,139,1107,181"/>
+<area shape="rect" id="node22" href="$d3/d57/ChipMappingITS_8h.html" title="ITSMFTReconstruction\l/ChipMappingITS.h" alt="" coords="1183,139,1341,181"/>
+<area shape="rect" id="node24" href="$da/de8/RootChain_8h.html" title="CommonUtils/RootChain.h" alt="" coords="1367,147,1545,173"/>
+<area shape="rect" id="node9" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="453,230,605,271"/>
+<area shape="rect" id="node11" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="629,230,781,271"/>
+</map>

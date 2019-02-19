@@ -1,0 +1,5 @@
+<map id="o2::Data::SubEventInfo" name="o2::Data::SubEventInfo">
+<area shape="rect" id="node3" href="$d4/db1/classo2_1_1dataformats_1_1MCEventHeader.html" title="{o2::dataformats::MCEvent\lHeader\n||+ MCEventHeader()\l+ MCEventHeader()\l+ operator=()\l+ ~MCEventHeader()\l+ setEmbeddingFileName()\l+ setEmbeddingEventIndex()\l+ Reset()\l# ClassDefOverride()\l}" alt="" coords="97,147,287,341"/>
+<area shape="rect" id="node4" href="$dd/d8f/classFairMCEventHeader.html" title="{FairMCEventHeader\n||}" alt="" coords="8,5,148,83"/>
+<area shape="rect" id="node8" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="403,205,449,283"/>
+</map>

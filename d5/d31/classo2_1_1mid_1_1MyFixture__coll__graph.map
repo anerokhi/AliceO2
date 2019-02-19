@@ -1,0 +1,9 @@
+<map id="o2::mid::MyFixture" name="o2::mid::MyFixture">
+<area shape="rect" id="node2" href="$d2/df3/classo2_1_1mid_1_1GeometryTransformer.html" title="{o2::mid::GeometryTransformer\n||+ setMatrix()\l+ getMatrix()\l+ localToGlobal()\l+ globalToLocal()\l+ localToGlobal()\l+ globalToLocal()\l+ localToGlobal()\l+ globalToLocal()\l}" alt="" coords="5,71,204,251"/>
+<area shape="rect" id="node3" href="$d6/d48/classo2_1_1mid_1_1TrackGenerator.html" title="Class to generate tracks for MID. " alt="" coords="229,49,416,273"/>
+<area shape="rect" id="node4" href="$db/d25/classo2_1_1mid_1_1HitFinder.html" title="Class to find the impact point of a track on the chamber. " alt="" coords="441,108,585,215"/>
+<area shape="rect" id="node5" href="$d5/dae/classo2_1_1mid_1_1Clusterizer.html" title="Clusterizing algorithm for MID. " alt="" coords="611,57,745,266"/>
+<area shape="rect" id="node6" href="$d1/d66/classo2_1_1mid_1_1Mapping.html" title="{o2::mid::Mapping\n||+ Mapping()\l+ ~Mapping()\l+ Mapping()\l+ operator=()\l+ Mapping()\l+ operator=()\l+ stripByLocation()\l+ stripByLocationInBoard()\l+ stripByPosition()\l+ getStripSize()\l+ getNStripsNBP()\l+ getFirstColumn()\l+ getFirstBoardBP()\l+ getLastBoardBP()\l+ getBoardId()\l+ getNeighbours()\l+ isValid()\l}" alt="" coords="771,5,948,317"/>
+<area shape="rect" id="node7" href="$d6/dde/classo2_1_1mid_1_1PreClusterizer.html" title="Pre&#45;clustering algorithm for MID. " alt="" coords="973,57,1128,266"/>
+<area shape="rect" id="node8" href="$da/d04/classo2_1_1mid_1_1Tracker.html" title="Tracking algorithm for MID. " alt="" coords="1153,64,1311,259"/>
+</map>

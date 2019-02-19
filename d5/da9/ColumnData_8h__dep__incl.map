@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/ColumnData.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/ColumnData.h">
+<area shape="rect" id="node2" href="$d5/d53/Clusterizer_8h.html" title="Cluster reconstruction algorithm for MID. " alt="" coords="242,139,475,210"/>
+<area shape="rect" id="node4" href="$d2/d12/bench__Clusterizer_8cxx.html" title="Benchmark clustering device for MID. " alt="" coords="737,259,956,330"/>
+<area shape="rect" id="node6" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;Cluster reconstruction algorithm for MID. " alt="" coords="500,139,753,210"/>
+<area shape="rect" id="node3" href="$d9/dd5/Clusterizer_8cxx.html" title="Implementation of the cluster reconstruction algorithm for MID. " alt="" coords="5,259,224,330"/>
+<area shape="rect" id="node5" href="$d6/dee/testClusterizer_8cxx.html" title="Test clustering device for MID. " alt="" coords="249,259,468,330"/>
+<area shape="rect" id="node7" href="$db/d2e/PreClusterizer_8cxx.html" title="Implementation of the pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="493,259,712,330"/>
+</map>

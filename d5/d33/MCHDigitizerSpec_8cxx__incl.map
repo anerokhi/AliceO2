@@ -1,0 +1,59 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Steer/DigitizerWorkflow/src/MCHDigitizerSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Steer/DigitizerWorkflow/src/MCHDigitizerSpec.cxx">
+<area shape="rect" id="node2" href="$da/d51/MCHDigitizerSpec_8h.html" title="MCHDigitizerSpec.h" alt="" coords="3857,125,3999,152"/>
+<area shape="rect" id="node3" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="3087,200,3305,227"/>
+<area shape="rect" id="node27" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="894,688,1049,715"/>
+<area shape="rect" id="node33" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="269,688,416,715"/>
+<area shape="rect" id="node66" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="6787,125,6975,152"/>
+<area shape="rect" id="node67" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="5089,507,5268,533"/>
+<area shape="rect" id="node70" href="$dd/d40/HitProcessingManager_8h.html" title="Steer/HitProcessingManager.h" alt="" coords="6411,507,6609,533"/>
+<area shape="rect" id="node79" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="5975,590,6127,631"/>
+<area shape="rect" id="node81" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="6025,681,6177,722"/>
+<area shape="rect" id="node83" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="4755,200,4884,227"/>
+<area shape="rect" id="node84" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="7139,590,7303,631"/>
+<area shape="rect" id="node88" href="$dd/db3/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Digit_8h.html" title="MCHSimulation/Digit.h" alt="" coords="7329,597,7484,624"/>
+<area shape="rect" id="node90" href="$da/d5e/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Digitizer_8h.html" title="MCHSimulation/Digitizer.h" alt="" coords="5925,507,6101,533"/>
+<area shape="rect" id="node91" href="$dc/dab/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Detector_8h.html" title="MCHSimulation/Detector.h" alt="" coords="4659,597,4837,624"/>
+<area shape="rect" id="node94" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="7937,597,8167,624"/>
+<area shape="rect" id="node4" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="4144,275,4331,301"/>
+<area shape="rect" id="node6" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="2856,424,3037,451"/>
+<area shape="rect" id="node36" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="331,597,501,624"/>
+<area shape="rect" id="node56" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="792,597,1000,624"/>
+<area shape="rect" id="node59" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="3086,275,3305,301"/>
+<area shape="rect" id="node60" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="4989,597,5139,624"/>
+<area shape="rect" id="node61" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="250,424,411,451"/>
+<area shape="rect" id="node5" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="3693,349,3907,376"/>
+<area shape="rect" id="node54" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="4052,349,4228,376"/>
+<area shape="rect" id="node55" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="4253,349,4419,376"/>
+<area shape="rect" id="node7" href="$df/d2f/ContextRegistry_8h.html" title="Framework/ContextRegistry.h" alt="" coords="2132,688,2329,715"/>
+<area shape="rect" id="node8" href="$dc/dc4/MessageContext_8h.html" title="Framework/MessageContext.h" alt="" coords="1963,597,2164,624"/>
+<area shape="rect" id="node9" href="$d8/d71/FairMQDeviceProxy_8h.html" title="Framework/FairMQDeviceProxy.h" alt="" coords="2455,688,2675,715"/>
+<area shape="rect" id="node14" href="$d2/d80/RootObjectContext_8h.html" title="Framework/RootObjectContext.h" alt="" coords="2395,597,2609,624"/>
+<area shape="rect" id="node15" href="$dd/df6/StringContext_8h.html" title="Framework/StringContext.h" alt="" coords="2189,597,2371,624"/>
+<area shape="rect" id="node16" href="$d8/da2/ArrowContext_8h.html" title="Framework/ArrowContext.h" alt="" coords="2921,597,3103,624"/>
+<area shape="rect" id="node17" href="$d5/d98/TableBuilder_8h.html" title="Framework/TableBuilder.h" alt="" coords="3005,688,3179,715"/>
+<area shape="rect" id="node19" href="$d8/d25/RawBufferContext_8h.html" title=" " alt="" coords="2685,597,2895,624"/>
+<area shape="rect" id="node20" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="5644,688,5849,715"/>
+<area shape="rect" id="node26" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="576,597,716,624"/>
+<area shape="rect" id="node34" href="$d6/d5a/OutputRef_8h.html" title="Framework/OutputRef.h" alt="" coords="1024,597,1187,624"/>
+<area shape="rect" id="node35" href="$d6/df4/OutputRoute_8h.html" title="Framework/OutputRoute.h" alt="" coords="961,507,1137,533"/>
+<area shape="rect" id="node38" href="$d7/d31/DataChunk_8h.html" title="Framework/DataChunk.h" alt="" coords="2936,507,3104,533"/>
+<area shape="rect" id="node39" href="$da/d2b/TimingInfo_8h.html" title="Framework/TimingInfo.h" alt="" coords="1719,507,1881,533"/>
+<area shape="rect" id="node40" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="3771,597,3988,624"/>
+<area shape="rect" id="node50" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="5109,688,5272,715"/>
+<area shape="rect" id="node52" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="5307,597,5529,624"/>
+<area shape="rect" id="node32" href="$d7/df8/Types_8h.html" title="Types.h" alt="" coords="1339,779,1408,805"/>
+<area shape="rect" id="node49" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="1531,688,1788,715"/>
+<area shape="rect" id="node57" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="1813,688,1955,715"/>
+<area shape="rect" id="node62" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="1211,597,1441,624"/>
+<area shape="rect" id="node63" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="1415,499,1593,541"/>
+<area shape="rect" id="node71" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="6786,681,6995,722"/>
+<area shape="rect" id="node74" href="$d5/d3f/RunContext_8h.html" title="SimulationDataFormat\l/RunContext.h" alt="" coords="6556,590,6708,631"/>
+<area shape="rect" id="node76" href="$df/dff/InteractionSampler_8h.html" title="Steer/InteractionSampler.h" alt="" coords="6914,597,7091,624"/>
+<area shape="rect" id="node73" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="6849,779,7085,805"/>
+<area shape="rect" id="node86" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="7296,688,7453,715"/>
+<area shape="rect" id="node87" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="6503,681,6711,722"/>
+<area shape="rect" id="node89" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="7579,688,7805,715"/>
+<area shape="rect" id="node93" href="$de/d89/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Hit_8h.html" title="MCHSimulation/Hit.h" alt="" coords="4937,688,5084,715"/>
+<area shape="rect" id="node92" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="4637,688,4811,715"/>
+<area shape="rect" id="node100" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="7969,688,8135,715"/>
+</map>

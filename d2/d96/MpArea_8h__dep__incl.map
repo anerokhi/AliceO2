@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Base/include/MIDBase/MpArea.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Base/include/MIDBase/MpArea.h">
+<area shape="rect" id="node2" href="$d4/d73/MID_2Base_2include_2MIDBase_2Mapping_8h.html" title="Mapping for MID. " alt="" coords="745,126,935,197"/>
+<area shape="rect" id="node4" href="$d5/d6f/testMapping_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Base\l/test/src/testMapping.cxx" alt="" coords="187,246,377,317"/>
+<area shape="rect" id="node13" href="$d0/db9/bench__Tracker_8cxx.html" title="Benchmark tracker device for MID. " alt="" coords="1035,246,1244,317"/>
+<area shape="rect" id="node14" href="$da/de0/testTracker_8cxx.html" title="Test tracking device for MID. " alt="" coords="1269,246,1479,317"/>
+<area shape="rect" id="node15" href="$dc/d24/MpArea_8cxx.html" title="Implementation of mapping area for MID. " alt="" coords="1145,126,1335,197"/>
+<area shape="rect" id="node3" href="$d9/d73/MID_2Base_2src_2Mapping_8cxx.html" title="Implementation of mapping for MID. " alt="" coords="454,246,644,317"/>
+<area shape="rect" id="node5" href="$d5/d53/Clusterizer_8h.html" title="Cluster reconstruction algorithm for MID. " alt="" coords="498,366,731,437"/>
+<area shape="rect" id="node7" href="$d2/d12/bench__Clusterizer_8cxx.html" title="Benchmark clustering device for MID. " alt="" coords="737,486,956,557"/>
+<area shape="rect" id="node9" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;Cluster reconstruction algorithm for MID. " alt="" coords="220,366,473,437"/>
+<area shape="rect" id="node11" href="$d8/d04/PreClusters_8h.html" title="Pre&#45;clusters structure for MID. " alt="" coords="721,246,959,317"/>
+<area shape="rect" id="node6" href="$d9/dd5/Clusterizer_8cxx.html" title="Implementation of the cluster reconstruction algorithm for MID. " alt="" coords="493,486,712,557"/>
+<area shape="rect" id="node8" href="$d6/dee/testClusterizer_8cxx.html" title="Test clustering device for MID. " alt="" coords="249,486,468,557"/>
+<area shape="rect" id="node10" href="$db/d2e/PreClusterizer_8cxx.html" title="Implementation of the pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="5,486,224,557"/>
+<area shape="rect" id="node12" href="$d6/d6b/PreClusters_8cxx.html" title="Implementation of the pre&#45;clusters for MID. " alt="" coords="807,366,1027,437"/>
+</map>

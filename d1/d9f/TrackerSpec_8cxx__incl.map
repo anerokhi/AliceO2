@@ -1,0 +1,59 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/workflow/src/TrackerSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/workflow/src/TrackerSpec.cxx">
+<area shape="rect" id="node4" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="279,125,467,152"/>
+<area shape="rect" id="node5" href="$d4/d94/TrackerSpec_8h.html" title="ITSWorkflow/TrackerSpec.h" alt="" coords="903,125,1089,152"/>
+<area shape="rect" id="node22" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="7586,125,7824,152"/>
+<area shape="rect" id="node24" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="5243,125,5445,152"/>
+<area shape="rect" id="node42" href="$d1/d71/TrackITS_8h.html" title="Definition of the ITS track. " alt="" coords="2293,208,2480,235"/>
+<area shape="rect" id="node49" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="5071,382,5223,423"/>
+<area shape="rect" id="node50" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="293,382,445,423"/>
+<area shape="rect" id="node54" href="$d5/d08/ROFRecord_8h.html" title="Definition of the ITSMFT ROFrame (trigger) record. " alt="" coords="7747,480,7977,507"/>
+<area shape="rect" id="node58" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="1252,208,1381,235"/>
+<area shape="rect" id="node60" href="$dc/d42/ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="1077,299,1235,325"/>
+<area shape="rect" id="node67" href="$d7/dba/IOUtils_8h.html" title="ITStracking/IOUtils.h" alt="" coords="2123,208,2268,235"/>
+<area shape="rect" id="node74" href="$d7/da0/ITSMFT_2ITS_2tracking_2include_2ITStracking_2Tracker_8h.html" title="ITStracking/Tracker.h" alt="" coords="2773,125,2920,152"/>
+<area shape="rect" id="node78" href="$de/dbc/TrackerTraitsCPU_8h.html" title="ITStracking/TrackerTraits\lCPU.h" alt="" coords="3175,201,3345,242"/>
+<area shape="rect" id="node80" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="4849,389,4996,416"/>
+<area shape="rect" id="node87" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="8053,473,8217,514"/>
+<area shape="rect" id="node90" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="6806,389,7036,416"/>
+<area shape="rect" id="node96" href="$d2/df9/Propagator_8h.html" title="DetectorsBase/Propagator.h" alt="" coords="5855,125,6041,152"/>
+<area shape="rect" id="node99" href="$df/d9a/ITS_2base_2include_2ITSBase_2GeometryTGeo_8h.html" title="ITSBase/GeometryTGeo.h" alt="" coords="6419,299,6596,325"/>
+<area shape="rect" id="node6" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="785,208,1004,235"/>
+<area shape="rect" id="node7" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="867,299,1053,325"/>
+<area shape="rect" id="node9" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="897,480,1079,507"/>
+<area shape="rect" id="node17" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="1309,299,1517,325"/>
+<area shape="rect" id="node18" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="151,299,371,325"/>
+<area shape="rect" id="node19" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="395,299,545,325"/>
+<area shape="rect" id="node20" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="1694,299,1855,325"/>
+<area shape="rect" id="node21" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="621,299,792,325"/>
+<area shape="rect" id="node8" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="520,389,733,416"/>
+<area shape="rect" id="node14" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="949,389,1125,416"/>
+<area shape="rect" id="node15" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="758,389,924,416"/>
+<area shape="rect" id="node25" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="5577,382,5764,423"/>
+<area shape="rect" id="node31" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="5705,473,5913,514"/>
+<area shape="rect" id="node40" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="6053,571,6219,597"/>
+<area shape="rect" id="node34" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="6441,563,6649,605"/>
+<area shape="rect" id="node37" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="7151,653,7271,680"/>
+<area shape="rect" id="node39" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="7494,728,7732,755"/>
+<area shape="rect" id="node43" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="5829,291,6016,333"/>
+<area shape="rect" id="node55" href="$d6/ddf/EvIndex_8h.html" title="Class to store event ID and index in the event for objects like track, cluster... ..." alt="" coords="7283,571,7489,597"/>
+<area shape="rect" id="node56" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="7718,563,7927,605"/>
+<area shape="rect" id="node57" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="7741,653,7977,680"/>
+<area shape="rect" id="node61" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="1737,389,1884,416"/>
+<area shape="rect" id="node64" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="2994,571,3157,597"/>
+<area shape="rect" id="node62" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="2933,653,3099,680"/>
+<area shape="rect" id="node63" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="2529,480,2688,507"/>
+<area shape="rect" id="node66" href="$d2/d0c/IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="1713,480,1908,507"/>
+<area shape="rect" id="node69" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="3657,480,3839,507"/>
+<area shape="rect" id="node70" href="$d4/d05/json_8h.html" title="ITStracking/json.h" alt="" coords="2023,389,2151,416"/>
+<area shape="rect" id="node72" href="$d3/dc8/Label_8h.html" title="ITStracking/Label.h" alt="" coords="1982,299,2116,325"/>
+<area shape="rect" id="node73" href="$db/d48/Road_8h.html" title="ITStracking/Road.h" alt="" coords="2994,480,3128,507"/>
+<area shape="rect" id="node77" href="$d3/da9/PrimaryVertexContext_8h.html" title="ITStracking/PrimaryVertex\lContext.h" alt="" coords="3551,382,3727,423"/>
+<area shape="rect" id="node79" href="$d2/dee/TrackerTraits_8h.html" title="ITStracking/TrackerTraits.h" alt="" coords="3335,299,3516,325"/>
+<area shape="rect" id="node82" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="4794,480,4949,507"/>
+<area shape="rect" id="node83" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="5295,480,5528,507"/>
+<area shape="rect" id="node85" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="5127,480,5271,507"/>
+<area shape="rect" id="node89" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="8133,571,8291,597"/>
+<area shape="rect" id="node97" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="6011,208,6268,235"/>
+<area shape="rect" id="node98" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="6293,201,6480,242"/>
+<area shape="rect" id="node100" href="$d0/d2d/common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="5298,389,5501,416"/>
+</map>

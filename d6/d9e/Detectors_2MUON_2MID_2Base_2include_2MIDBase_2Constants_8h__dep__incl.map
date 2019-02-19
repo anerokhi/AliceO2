@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Base/include/MIDBase/Constants.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Base/include/MIDBase/Constants.h">
+<area shape="rect" id="node2" href="$de/d0c/GeometryTransformer_8h.html" title="Geometry transformer for MID. " alt="" coords="737,126,1004,197"/>
+<area shape="rect" id="node3" href="$d7/d40/HitFinder_8h.html" title="Hit finder for MID. " alt="" coords="232,246,427,317"/>
+<area shape="rect" id="node4" href="$d4/dc0/HitFinder_8cxx.html" title="Implementation of the hit finder for MID. " alt="" coords="5,366,195,437"/>
+<area shape="rect" id="node9" href="$d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Simulation\l/src/Geometry.cxx" alt="" coords="1422,246,1644,317"/>
+<area shape="rect" id="node12" href="$de/dbc/MUON_2MID_2Tracking_2src_2Tracker_8cxx.html" title="Implementation of the tracker algorithm for the MID. " alt="" coords="689,366,899,437"/>
+<area shape="rect" id="node13" href="$d2/d2a/Constants_8cxx.html" title="Implementation of constants for MID. " alt="" coords="1081,126,1271,197"/>
+<area shape="rect" id="node14" href="$d9/d73/MID_2Base_2src_2Mapping_8cxx.html" title="Implementation of mapping for MID. " alt="" coords="1295,126,1485,197"/>
+<area shape="rect" id="node7" href="$dc/d25/GeometryTransformer_8cxx.html" title="Geometry transformer for MID. " alt="" coords="736,246,935,317"/>
+<area shape="rect" id="node8" href="$d3/d9d/Positions_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Base\l/test/src/Positions.cxx" alt="" coords="961,246,1151,317"/>
+<area shape="rect" id="node10" href="$d1/d58/MID_2Simulation_2test_2testGeometry_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Simulation\l/test/testGeometry.cxx" alt="" coords="1175,246,1397,317"/>
+<area shape="rect" id="node11" href="$db/d8e/MUON_2MID_2Tracking_2include_2MIDTracking_2Tracker_8h.html" title="Track reconstruction algorithm for MID. " alt="" coords="451,246,660,317"/>
+<area shape="rect" id="node5" href="$d0/db9/bench__Tracker_8cxx.html" title="Benchmark tracker device for MID. " alt="" coords="220,366,429,437"/>
+<area shape="rect" id="node6" href="$da/de0/testTracker_8cxx.html" title="Test tracking device for MID. " alt="" coords="455,366,664,437"/>
+</map>
