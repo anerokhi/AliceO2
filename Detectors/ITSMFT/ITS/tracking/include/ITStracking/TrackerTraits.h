@@ -92,9 +92,9 @@ inline GPU_DEVICE const int4 TrackerTraits::getBinsRect(const Cluster& currentCl
   }
 
   return int4{ MATH_MAX(0, IndexTableUtils::getZBinIndex(layerIndex + 1, zRangeMin)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phiRangeMin)),
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phiRangeMin)),
                MATH_MIN(Constants::IndexTable::ZBins - 1, IndexTableUtils::getZBinIndex(layerIndex + 1, zRangeMax)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phiRangeMax)) };
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phiRangeMax)) };
 }
 }
 }

@@ -22,9 +22,9 @@ namespace o2
 namespace its
 {
 
-using MathUtils::calculatePhiCoordinate;
-using MathUtils::calculateRCoordinate;
-using MathUtils::getNormalizedPhiCoordinate;
+using math_utils::calculatePhiCoordinate;
+using math_utils::calculateRCoordinate;
+using math_utils::getNormalizedPhiCoordinate;
 
 Cluster::Cluster(const float x, const float y, const float z, const int index)
   : xCoordinate{ x },

@@ -173,7 +173,7 @@ void TrackerTraitsCPU::computeLayerCells()
                                             thirdCellClusterQuadraticRCoordinate -
                                               firstCellClusterQuadraticRCoordinate };
 
-            float3 cellPlaneNormalVector{ MathUtils::crossProduct(firstDeltaVector, secondDeltaVector) };
+            float3 cellPlaneNormalVector{ math_utils::crossProduct(firstDeltaVector, secondDeltaVector) };
 
             const float vectorNorm{ std::sqrt(cellPlaneNormalVector.x * cellPlaneNormalVector.x +
                                               cellPlaneNormalVector.y * cellPlaneNormalVector.y +

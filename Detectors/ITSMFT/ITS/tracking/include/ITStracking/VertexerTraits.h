@@ -142,15 +142,15 @@ inline GPU_DEVICE const int4 VertexerTraits::getBinsRect(const Cluster& currentC
   }
 
   return int4{ MATH_MAX(0, IndexTableUtils::getZBinIndex(layerIndex + 1, zRangeMin)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phiRangeMin)),
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phiRangeMin)),
                MATH_MIN(Constants::IndexTable::ZBins - 1, IndexTableUtils::getZBinIndex(layerIndex + 1, zRangeMax)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phiRangeMax)) };
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phiRangeMax)) };
 }
 
 inline GPU_HOST_DEVICE const int2 VertexerTraits::getPhiBins(const int layerIndex, float phi, float dPhi)
 {
-  return int2{ IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phi - dPhi)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phi + dPhi)) };
+  return int2{ IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phi - dPhi)),
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phi + dPhi)) };
 }
 
 inline GPU_HOST_DEVICE const int4 VertexerTraits::getBinsRect2(const Cluster& currentCluster, const int layerIndex,
@@ -168,9 +168,9 @@ inline GPU_HOST_DEVICE const int4 VertexerTraits::getBinsRect2(const Cluster& cu
   }
 
   return int4{ MATH_MAX(0, IndexTableUtils::getZBinIndex(layerIndex + 1, zRangeMin)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phiRangeMin)),
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phiRangeMin)),
                MATH_MIN(Constants::IndexTable::ZBins - 1, IndexTableUtils::getZBinIndex(layerIndex + 1, zRangeMax)),
-               IndexTableUtils::getPhiBinIndex(MathUtils::getNormalizedPhiCoordinate(phiRangeMax)) };
+               IndexTableUtils::getPhiBinIndex(math_utils::getNormalizedPhiCoordinate(phiRangeMax)) };
 }
 extern "C" VertexerTraits* createVertexerTraits();
 
